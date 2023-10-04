@@ -1,5 +1,5 @@
-# demografi_pasien_penyakit_jantung.github.io
-Dashboard demografi pasien penyakit jantung di Indonesia
+# demographics of heart disease patients.github.io
+Dashboard demografi pasien penyakit jantung di Indonesia 2019-2020
 
 
 
